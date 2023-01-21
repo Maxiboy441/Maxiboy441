@@ -11,3 +11,5 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Maxiboy441}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxiboy441)](https://github.com/anuraghazra/github-readme-stats)
