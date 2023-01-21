@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
+- 🎓 &nbsp; Leaning software engineering at oddity in germany
 
 
 <br>
