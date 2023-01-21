@@ -14,12 +14,10 @@
 
 <h4 align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiboy441&layout=demo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiboy441&langs_count=10&theme=radical&layout=demo" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxiboy441&show_icons=true&theme=radical" />
 </a>
 </h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiboy441&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
