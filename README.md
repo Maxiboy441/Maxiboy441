@@ -18,4 +18,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxiboy441&show_icons=true&theme=radical" />
 </a>
-
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxiboy441&repo=threeJs-basics" />
+</a>
