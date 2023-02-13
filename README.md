@@ -50,10 +50,10 @@
 
 <h4> Operating System </h4>
 <span>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/DEBIAN-F05032?style=for-the-badge&logo=debian&logoColor=white">
   <img src="https://img.shields.io/badge/MACOS-F05032?style=for-the-badge&logo=macos&logoColor=white">
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/DEBIAN-F05032?style=for-the-badge&logo=debian&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
