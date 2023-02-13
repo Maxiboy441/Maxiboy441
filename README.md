@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/CSHARP-gray?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/COBOL-6bdd24?style=for-the-badge&logo=cobol&logoColor=black">
+  <img src="https://img.shields.io/badge/COBOL-6bbe24?style=for-the-badge&logo=cobol&logoColor=black">
 </span>
 
 <h4> Frameworks </h4>
