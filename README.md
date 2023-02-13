@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/CSHARP-gray?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/COBOL-6bbe24?style=for-the-badge&logo=cobol&logoColor=black">
+  <img src="https://img.shields.io/badge/PYTHON-6bbe24?style=for-the-badge&logo=python&logoColor=black">
 </span>
 
 <h4> Frameworks </h4>
