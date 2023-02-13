@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/PHPSTORM-purple?style=for-the-badge&logo=phpstorm&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/VSCODE-0078D6?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/VISUALSTUDIO-CBC3E3?style=for-the-badge&logo=visualstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/VISUALSTUDIO-BF40BF?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
 
