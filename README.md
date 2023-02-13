@@ -65,6 +65,6 @@
   <img src="https://img.shields.io/badge/VISUALSTUDIO-BF40BF?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/ARDUINO-F37623?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/RASPBERRY-F37623?style=for-the-badge&logo=raspberry&logoColor=white">
+  <img src="https://img.shields.io/badge/RASPBERRY-F37623?style=for-the-badge&logo=raspberrypi&logoColor=white">
 </span>
 
