@@ -68,6 +68,5 @@
   <img src="https://img.shields.io/badge/ARDUINO-47d9ff?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/RASPBERRY-red?style=for-the-badge&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/JUPYTER-FF6C37?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/SHELL-FF6C37?style=for-the-badge&logo=shell&logoColor=white">
 </span>
 
