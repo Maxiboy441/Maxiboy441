@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/CSHARP-gray?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/COBOL-blue?style=for-the-badge&logo=cobol&logoColor=black">
   <img src="https://img.shields.io/badge/PYTHON-6bbe24?style=for-the-badge&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/BASH-6bbe24?style=for-the-badge&logo=bash&logoColor=black">
 </span>
 
 <h4> Frameworks </h4>
@@ -69,5 +68,6 @@
   <img src="https://img.shields.io/badge/ARDUINO-47d9ff?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/RASPBERRY-red?style=for-the-badge&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/JUPYTER-FF6C37?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/SHELL-FF6C37?style=for-the-badge&logo=shell&logoColor=white">
 </span>
 
