@@ -39,7 +39,6 @@
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Three.Js-black?style=for-the-badge&logo=three.js&logoColor=white">
 </span>
@@ -68,5 +67,6 @@
   <img src="https://img.shields.io/badge/ARDUINO-47d9ff?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/RASPBERRY-red?style=for-the-badge&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/JUPYTER-FF6C37?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </span>
 
