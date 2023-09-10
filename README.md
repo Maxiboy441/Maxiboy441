@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/CSHARP-gray?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/COBOL-blue?style=for-the-badge&logo=cobol&logoColor=black">
   <img src="https://img.shields.io/badge/PYTHON-6bbe24?style=for-the-badge&logo=python&logoColor=black">
-<img src="https://img.shields.io/badge/PYTHON-6bbe24?style=for-the-badge&logo=winglang&logoColor=black">
+<img src="https://img.shields.io/badge/Winglang-6bbe24?style=for-the-badge&logo=winglang&logoColor=black">
 </span>
 
 <h4> Frameworks </h4>
