@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/COBOL-blue?style=for-the-badge&logo=cobol&logoColor=black">
   <img src="https://img.shields.io/badge/PYTHON-6bbe24?style=for-the-badge&logo=python&logoColor=black">
 <img src="https://img.shields.io/badge/Winglang-black?style=for-the-badge&logo=winglang&logoColor=black">
-<img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=black">
+<img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -66,6 +66,6 @@
   <img src="https://img.shields.io/badge/RASPBERRY-red?style=for-the-badge&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/JUPYTER-FF6C37?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-6bbe24?style=for-the-badge&logo=supabase&logoColor=black">
+<img src="https://img.shields.io/badge/Supabase-6bbe24?style=for-the-badge&logo=supabase&logoColor=white">
 </span>
 
