@@ -40,6 +40,7 @@
 <span>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Three.Js-black?style=for-the-badge&logo=three.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-6bbe24?style=for-the-badge&logo=react.js&logoColor=white">
 
 <h4> Databases </h4>
 <span>
