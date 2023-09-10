@@ -32,14 +32,13 @@
   <img src="https://img.shields.io/badge/CSHARP-gray?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/COBOL-blue?style=for-the-badge&logo=cobol&logoColor=black">
   <img src="https://img.shields.io/badge/PYTHON-6bbe24?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/PYTHON-6bbe24?style=for-the-badge&logo=winglang&logoColor=black">
 </span>
 
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Three.Js-black?style=for-the-badge&logo=three.js&logoColor=white">
-<img src="https://img.shields.io/badge/yii?style=for-the-badge&logo=yii&logoColor=red">
-</span>
 
 <h4> Databases </h4>
 <span>
