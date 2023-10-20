@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxiboy441&show_icons=true&theme=radical" />
 </a>
 </h4>
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Skills <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647d869e40cee644b2851631?variant=dark" alt="roadmap.sh"/></a>&nbsp; 
 
 <h4> Languages</h4>
 <span> 
