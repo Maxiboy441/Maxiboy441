@@ -70,3 +70,6 @@
 <img src="https://img.shields.io/badge/Supabase-6bbe24?style=for-the-badge&logo=supabase&logoColor=white">
 </span>
 
+
+[![Alt Text]([https://your-image-url.png](https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-a75d810b511aa388a3960e87a482afae-lqmqa3r7.jpg)https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-a75d810b511aa388a3960e87a482afae-lqmqa3r7.jpg)](https://ko-fi.com/maxiboy)
+
