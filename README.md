@@ -11,8 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxiboy441&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats">
 </div>
 
+<div align="center">
 <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-
+</div>
 
 
 <h4 align="center">Visitor's count :eyes:</h4>
