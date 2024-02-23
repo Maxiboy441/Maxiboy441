@@ -11,11 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxiboy441&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats">
 </div>
 
-<div align="center">
-<p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-</div>
-
-
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Maxiboy441}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
@@ -78,3 +73,4 @@
 
 [![Alt Text](https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-a75d810b511aa388a3960e87a482afae-lqmqa3r7.jpg)](https://ko-fi.com/maxiboy)
 
+<h1>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h1>
