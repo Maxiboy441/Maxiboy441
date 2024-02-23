@@ -14,6 +14,8 @@
 <a align="center"href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647d869e40cee644b2851631?variant=dark" alt="roadmap.sh"/>
 </a></h4>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxiboy441)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Skills 
 
