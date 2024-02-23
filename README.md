@@ -7,13 +7,12 @@
   </h4>
 </div>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Maxiboy441}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxiboy441&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats">
 </div>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Maxiboy441}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">
 <a align="center"href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647d869e40cee644b2851631?variant=dark" alt="roadmap.sh"/>
