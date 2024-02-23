@@ -10,6 +10,11 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Maxiboy441}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxiboy441&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats">
+</div>
+
+
 <h4 align="center">
 <a align="center"href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647d869e40cee644b2851631?variant=dark" alt="roadmap.sh"/>
 </a></h4>
@@ -63,9 +68,6 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-6bbe24?style=for-the-badge&logo=supabase&logoColor=white">
 </span>
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxiboy441&langs_count=5&theme=tokyonight)]()
 
 
 ## Support
