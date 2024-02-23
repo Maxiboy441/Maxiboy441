@@ -7,12 +7,6 @@
   </h4>
 </div>
 
-<div align="center">
-  <a href="">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Maxiboy441}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
