@@ -14,9 +14,6 @@
 <a align="center"href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647d869e40cee644b2851631?variant=dark" alt="roadmap.sh"/>
 </a></h4>
 
-<h4 align="center">
-<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxiboy441)](https://github.com/anuraghazra/github-readme-stats)</p>
-</h4>
 
 ## Skills 
 
@@ -66,6 +63,9 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-6bbe24?style=for-the-badge&logo=supabase&logoColor=white">
 </span>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxiboy441)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Support
