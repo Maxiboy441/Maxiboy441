@@ -73,4 +73,4 @@
 
 [![Alt Text](https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-a75d810b511aa388a3960e87a482afae-lqmqa3r7.jpg)](https://ko-fi.com/maxiboy)
 
-<h1>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h1>
+<h3>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h3>
