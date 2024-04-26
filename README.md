@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/COBOL-blue?style=for-the-badge&logo=cobol&logoColor=black">
   <img src="https://img.shields.io/badge/PYTHON-6bbe24?style=for-the-badge&logo=python&logoColor=black">
   <img src="https://img.shields.io/badge/Winglang-black?style=for-the-badge&logo=winglang&logoColor=black">
-  <img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dartr&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=green">
 </span>
 
 <h4> Frameworks </h4>
@@ -50,9 +51,11 @@
 <h4> Operating System </h4>
 <span>
   <img src="https://img.shields.io/badge/MACOS-silver?style=for-the-badge&logo=macos&logoColor=white">
-   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/DEBIAN-F05032?style=for-the-badge&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Debian-F05032?style=for-the-badge&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-F75032?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/EndeavourOS-purple?style=for-the-badge&logo=endeavouros&logoColor=F87B7B">
 </span>
 
 <h4> Other Tools and Technologies </h4>
@@ -67,7 +70,9 @@
   <img src="https://img.shields.io/badge/RASPBERRY-red?style=for-the-badge&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/JUPYTER-FF6C37?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-6bbe24?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-6bbe24?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Aws-FF6C37?style=for-the-badge&logo=aws&logoColor=white">
+
 </span>
 
 
