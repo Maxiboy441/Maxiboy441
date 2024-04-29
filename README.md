@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Max</h1>
+<h1 align="center">Hi, I'm Max</h1>
   <h4 align="center">
     <a>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=099F50&multiline=true&width=435&lines=a+trainee+at+Wongdoody+in+germany" />
