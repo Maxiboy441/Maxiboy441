@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Max</h1>
   <h4 align="center">
     <a>
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=099F50&multiline=true&width=435&lines=a+trainee+at+Wongdoody+in+germany" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=a+full-stack+trainee+at+wongdoody!" alt="Typing SVG" /></a>
   </a>
   </h4>
 </div>
