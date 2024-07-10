@@ -39,9 +39,8 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Three.Js-black?style=for-the-badge&logo=three.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
