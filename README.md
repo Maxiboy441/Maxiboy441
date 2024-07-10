@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Three.Js-black?style=for-the-badge&logo=three.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro&logoColor=white">
 
 <h4> Databases </h4>
 <span>
