@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/DOTNET-MVC-black?style=for-the-badge&logo=mvc&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwindcss-E5E4E2?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
