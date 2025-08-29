@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Max</h1>
   <h4 align="center">
     <a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AC1DBB&center=true&random=false&width=435&lines=full-stack+trainee+at+wongdoody+GmbH;focused+on+the+world+wide+web;php%2C+laravel%2C+docker%2C+react%2C+aws..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AC1DBB&center=true&random=false&width=435&lines=full-stack+developer+at+ETED+GmbH;focused+on+the+world+wide+web;php%2C+laravel%2C+docker%2C+react%2C+aws..." alt="Typing SVG" /></a>
   </h4>
 </div>
 
